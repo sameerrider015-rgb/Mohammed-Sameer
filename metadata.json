@@ -1,0 +1,8 @@
+{
+  "name": "Remix Jungle Clash: King vs Tiger",
+  "description": "Experience an intense standoff between a powerful Bengal tiger and a lion in the heart of the wilderness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
